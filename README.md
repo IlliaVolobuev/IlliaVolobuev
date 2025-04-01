@@ -114,9 +114,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AndreaBar94&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AndreaBar94&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaBar94&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=IlliaVolobuev&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IlliaVolobuev&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IlliaVolobuev&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -125,7 +125,3 @@
 [![](https://visitcount.itsvg.in/api?id=AndreaBar94&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<hr/>
-<div>  <image src="https://github-readme-stats.vercel.app/api?username=elinoza&hide=issues&show_icons=true&hide_border=true&theme=slateorange">
-  <image src="https://github-readme-stats.vercel.app/api/top-langs/?username=elinoza&layout=compact&&theme=slateorange&&hide_border=true"></div>
